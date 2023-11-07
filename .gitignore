@@ -1,3 +1,5 @@
 #ignore all .txt files
-#ignore main.spec file
+ignore main.spec file
+icon.ico file
+code.png file
 *.txt
