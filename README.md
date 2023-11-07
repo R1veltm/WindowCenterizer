@@ -13,4 +13,4 @@ Do you find yourself constantly shifting windows around on your computer screen,
 
 (If you opened new window while running the program, click on the refresh button to refresh the list)
 
-This app was built by ***Tom Girshovky***, *You can suggest any changes and improvemnts to this app*, and by that we will improve the app and make it better for everyone!
+This app was built by ***Tom Girshovsky***, *You can suggest any changes and improvemnts to this app*, and by that we will improve the app and make it better for everyone!
