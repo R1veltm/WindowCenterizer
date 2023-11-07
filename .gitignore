@@ -1,5 +1,6 @@
 #ignore all .txt files
-ignore main.spec file
-icon.ico file
-code.png file
+*.png
+*.jpg
 *.txt
+/build/
+*.dist
