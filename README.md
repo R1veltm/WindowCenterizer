@@ -7,9 +7,9 @@ Do you find yourself constantly shifting windows around on your computer screen,
 
 **How to use this app?:**
 
- `1. run the app
- 2. choose in the box list the app that you want to center on your screen
- 3. press the Center button.`
+ `1. run the app`  
+ `2. choose in the box list the app that you want to center on your screen`  
+ `3. press the Center button.`  
 
 (If you opened new window while running the program, click on the refresh button to refresh the list)
 
