@@ -1,6 +1,6 @@
-#ignore all .txt files
 *.png
 *.jpg
 *.txt
-/build/
-*.dist
+icon.ico
+build
+dist
