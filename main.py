@@ -1,18 +1,13 @@
 import tkinter as tk
 from tkinter import ttk
 import pyautogui
-from PIL import Image, ImageTk
 
 
+# The app was developed by Tom Girshovksi.
 class CenterWindowGUI:
     def __init__(self, master):
         self.master = master
         master.title("Center Window")
-
-        #        icon_path = "code.png"
-        #        icon_image = Image.open(icon_path)
-        #        self.icon_photo = ImageTk.PhotoImage(icon_image)
-        #        master.iconphoto(True, self.icon_photo)
 
         # Create the frame
         self.frame = ttk.Frame(master, padding=20)
